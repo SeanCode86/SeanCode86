@@ -27,7 +27,7 @@ come to life.
      the problem of how information is presented, and accessed in user experience. It's a big reason why I advocate cryptocurrency, 
      if that can make any sense to you! 😉 
      
-- 📫 How to reach me ... For now -> captainbrunton@gmail.com
+- 📫 How to reach me ... For now -> captainbrunton@gmail.com or mrY2k@mail.com 
 
 ## 🏠 Projects 
 
