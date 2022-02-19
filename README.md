@@ -34,7 +34,7 @@ come to life.
 1. **🤖SBO_FintechBot**          (Python)
 2. **🤖JoburgFoodRescue-Bot**    (Python)
 3. **🔋Battery Time Web App**    (JavaScript)
-4. **🔥Firecoin!**               (Python)
+4. **🔥Firenance! Network**               (Python)
 5. **🎨JuSt4KiX NFT Collection** (Python)
 
 <!---
