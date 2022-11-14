@@ -19,21 +19,26 @@ come to life.
      However this by no means defuncts my ability to build web apps with languages like JavaScript, React, etc.
      
 - 💻 Currently, I am learning about Blockchain Technology, and trying to wrap my head around the Elliptical Curve Cryptography of
-     Cryptocurrencies like Bitcoin, Litecoin and Monero. I also like The-Open-Network (TON), as well as Polkadot & Algorand.
+     Cryptocurrencies like Bitcoin, Litecoin and Monero. I also like The-Open-Network (TON), as well as Polkadot & Algorand. I have a keen interest in the
+     way social media works, what influences it has, in both a postive and negative context. I enjoy learnig about how there are diffirent ways to stream data,
+     hence I've just started learning about Apache Kafka. I also am learning how to use Google's QuantumAI Platform, as Quantum Mechanics is of a great
+     personal interest of mine. I believe Quantum Processors will be a reality, and it has a great benefit for the future of the business world. My ultimate
+     aim or personal goal of mine, is to run AI libraries on the Seycamore Device, through using the Cirq Library of the Platform, perhaps find a way to build
+     an AI Oracle of Blockchains, to better protect individuals, wanting to genuinely and ethically use blockchain technology for their own financial freedom
      
-- 💞️ I’m looking to collaborate on "Pythonic" Projects to furtherly increase my reputation to recruiters in a more like, "niche'"-like 
-     sense, also have some fun, challenge myself and my own abilities. I would like to get better clued up on security scripting,
-     blockchain development and projects which focus on the presentation and access to information. I do feel strongly about fixing 
-     the problem of how information is presented, and accessed in user experience. It's a big reason why I advocate cryptocurrency, 
-     if that can make any sense to you! 😉 
+- 💞️ I would like to maybe callobrate on Pythonic projects, where Financial Technologies, work hand in hand with Cyber Security. I do enjoy matters to do
+      with security, wether it be in a digital paradigm or not. The way crimes are performed in the modern day is something of intruiging interest to me. I 
+      like to imagine ways or solutions to mitigate its effect on modern day systems, and to teach individuals about my ideas. I have been told I have a unquie
+      talent to teach things to individuals, and to easily refine complicated matters, to indivduals, who are not technically inclined. 
      
-- 📫 How to reach me ... For now -> captainbrunton@gmail.com or mrY2k@mail.com 
+- 📫 How to reach me ... For now -> captainbrunton@gmail.com or mrY2k@mail.com or you may send me a short message on Telegram @GalaxyBrainGuyDude. I will 
+      try assist and answer any questions or queries you may have. 
 
 ## 🏠 Projects 
 
 1. **🤖SBO_FintechBot**          (Python)
 2. **🤖JoburgFoodRescue-Bot**    (Python)
-3. **🔋Battery Time Web App**    (JavaScript)
+3. **🔋BackApp**    (A Metamorphism of Python & JavaScript)
 4. **🔥Firenance! Network**               (Python)
 5. **🎨JuSt4KiX NFT Collection** (Python)
 
