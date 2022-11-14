@@ -24,17 +24,26 @@ come to life.
      hence I've just started learning about Apache Kafka. I also am learning how to use Google's QuantumAI Platform, as Quantum Mechanics is of a great
      personal interest of mine. I believe Quantum Processors will be a reality, and it has a great benefit for the future of the business world. My ultimate
      aim or personal goal of mine, is to run AI libraries on the Seycamore Device, through using the Cirq Library of the Platform, perhaps find a way to build
-     an AI Oracle of Blockchains, to better protect individuals, wanting to genuinely and ethically use blockchain technology for their own financial freedom
+     an AI Oracle of Blockchains, to better protect individuals, wanting to genuinely and ethically use blockchain technology for their own financial freedom. 
+     I have also developed a keen interest in Markovian chains, and using as compuational tool. I also use Beautiful Soup quite a bit. It's a
+     rather, powerful and potent library in my opionion.
      
 - 💞️ I would like to maybe callobrate on Pythonic projects, where Financial Technologies, work hand in hand with Cyber Security. I do enjoy matters to do
       with security, wether it be in a digital paradigm or not. The way crimes are performed in the modern day is something of intruiging interest to me. I 
       like to imagine ways or solutions to mitigate its effect on modern day systems, and to teach individuals about my ideas. I have been told I have a unquie
       talent to teach things to individuals, and to easily refine complicated matters, to indivduals, who are not technically inclined. 
+      
+- ⚙️ There are a variety of tools I use. For the most part I prefer to run my scripts in Python virtual enviroments, preferably I like to use conda enviroments,
+      over that of the Python generic (venv). I find it easier to handle dependencies, and if I want to, I can still use the pip package manager in any case. 
+      For stuff I build as web apps, I like to keep things as simple, and as multi-platform as possible, so I'll generally use a mixture of Flask framework, 
+      FastAPI and Streamlit. For Bot development, nothing really beats Telegram Cloud Platform, and its Bot-HTTP API, however I have known myself to use OpenAI,
+      specfically the BetaAPI, where I textaully engage with one of its many GPT engines or family. For the most part I will build OpenAI GPT, along with another 
+      framework, as mentioned aboved. I also have a good idea how FigWheel works alongside ClojureScript, however I haven't gone into much of its detail. I also use         Beautiful Soup quite a bit. It's a rather, powerful and potent library in my opionion.
      
 - 📫 How to reach me ... For now -> captainbrunton@gmail.com or mrY2k@mail.com or you may send me a short message on Telegram @GalaxyBrainGuyDude. I will 
       try assist and answer any questions or queries you may have. 
 
-## 🏠 Projects 
+## 🏠 Projects
 
 1. **🤖SBO_FintechBot**          (Python)
 2. **🤖JoburgFoodRescue-Bot**    (Python)
