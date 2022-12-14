@@ -36,9 +36,7 @@ come to life.
 - ⚙️ There are a variety of tools I use. For the most part I prefer to run my scripts in Python virtual enviroments, preferably I like to use conda enviroments,
       over that of the Python generic (venv). I find it easier to handle dependencies, and if I want to, I can still use the pip package manager in any case. 
       For stuff I build as web apps, I like to keep things as simple, and as multi-platform as possible, so I'll generally use a mixture of Flask framework, 
-      FastAPI and Streamlit. For Bot development, nothing really beats Telegram Cloud Platform, and its Bot-HTTP API, however I have known myself to use OpenAI,
-      specfically the BetaAPI, where I textaully engage with one of its many GPT engines or family. For the most part I will build OpenAI GPT, along with another 
-      framework, as mentioned aboved. I also have a good idea how FigWheel works alongside ClojureScript, however I haven't gone into much of its detail. I also use         Beautiful Soup quite a bit. It's a rather, powerful and potent library in my opionion.
+      FastAPI and Streamlit. I'm also teaching myself Angular, Node.js and general JavaScript, so I can carry on from where I stopped, from teaching myself ClojureScript.
      
 - 📫 How to reach me ... For now -> captainbrunton@gmail.com or mrY2k@mail.com or you may send me a short message on Telegram @GalaxyBrainGuyDude. I will 
       try assist and answer any questions or queries you may have. 
