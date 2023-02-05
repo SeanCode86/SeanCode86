@@ -9,14 +9,12 @@ of UPS technology can be found within the Republic of South Africa. Working with
 a keen interest in computer programming and computing systems in general. I have a passion for building things, and like to see my creations 
 come to life. 
 
-- 👀 I’m interested in mainly Python Programming, within the context of Fintech, Cyber Security, Data Science, AI and Bot Development.
-     I prefer to code in a functional paradigm, as I enjoy, the "immutable" mindset. I do really enjoy learning about the 
-     LiSp(s) & languages like Clojure & ClojureScript, however I am better adapated to Python, as I see it as a useful programming language
-     to get ideas up, and running quickly. Having said that I am easily able to grasp any syntax pretty quickly. 
-     Programming Languages are ever evolving, and I prefer Python to get ideas working in a shorter period of time. I find the language 
-     useful for building trade strategies, and snippets of script to reinforce security of networks. I am focusing on the security & financial
-     technological aspect of things, rather than web development in itself. 
-     However this by no means defuncts my ability to build web apps with languages like JavaScript, React, etc.
+- 👀 I kinda got into programming, via first learning Python about 15 or so years ago. So I'll always like Python🐍. So I like fields of work which
+     generally, go along the scope of 'Pythonic' code. Things like; Fintech, Cyber Security, Data Science, AI and Bot Development. However I still very much 
+     doing web development, whereby I like to use TypeScript, within an Angular Workspace. I enjoy, the "immutable" mindset, and I prefer to code in a
+     functional paradigm. I do really enjoy learning about the LiSp(s) & languages like Clojure & ClojureScript, however I am better adapated to
+     Python, as well working with TypeScript, within an Angular WorkSpace. having said all this, I see it as a useful programming language to 
+     get ideas up, and running quickly. I am able to grasp any syntax of any langugae, pretty quickly 
      
 - 💻 Currently, I am learning about Blockchain Technology, and trying to wrap my head around the Elliptical Curve Cryptography of
      Cryptocurrencies like Bitcoin, Litecoin and Monero. I also like The-Open-Network (TON), as well as Polkadot & Algorand. I have a keen interest in the
