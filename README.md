@@ -26,6 +26,8 @@ come to life.
      I have also developed a keen interest in Markovian chains, and using as compuational tool. I also use Beautiful Soup quite a bit. It's a
      rather, powerful and potent library in my opionion.
      
+- 💻 
+     
 - 💞️ I would like to maybe callobrate on Pythonic projects, where Financial Technologies, work hand in hand with Cyber Security. I do enjoy matters to do
       with security, wether it be in a digital paradigm or not. The way crimes are performed in the modern day is something of intruiging interest to me. I 
       like to imagine ways or solutions to mitigate its effect on modern day systems, and to teach individuals about my ideas. I have been told I have a unquie
