@@ -38,7 +38,7 @@ I believe in G.O.D, or Good. Orderly. Direction. I strive for logic and orderly 
 3. **🔋BackApp**    (A Metamorphism of Python & JavaScript) - Not pushed to Github
 4. **🔥Firenance! Network**               (Python)
 5. **🎨JuSt4KiX NFT Collection** (Python) - Not Pushed to Github yet
-6. **:man_astronaut HeroApp (Angular)
+6. **🦸🏻‍♂️HeroApp (Angular)
 
 <!---
 SeanCode86/SeanCode86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
