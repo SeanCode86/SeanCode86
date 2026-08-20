@@ -38,13 +38,13 @@ Currently building a production-grade, asynchronous API middleware service in Py
 
 * **Networking & Security:** Completing Cisco Network Academy courses with a focus on API security (OWASP Top 10 for APIs) and threat analysis[cite: 1].
 * **Advanced Backend Architecture:** Implementing distributed message queues (Celery/ARQ), rate-limiting algorithms, and database connection pooling.
-* **Certifications in Progress:** CompTIA Network+ & Security+[cite: 1].
+* **Certifications in Progress:** CompTIA Network+ & Security+
 
 ---
 
 ### 📫 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/your-linkedin-handle](#)
-* **Email:** [sean@bigwinups.co.za](mailto:sean@bigwinups.co.za)[cite: 1]
-* **Location:** Gauteng, South Africa[cite: 1]
+* **Email:** [sean@bigwinups.co.za](mailto:sean@bigwinups.co.za)
+* **Location:** Gauteng, South Africa
 
